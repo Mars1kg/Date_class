@@ -1,4 +1,6 @@
 Instructions
+
+
 1. Define the Date Class
 Create a Date class with attributes:
 
@@ -9,6 +11,10 @@ month (int)
 year (int)
 
 Provide appropriate constructors for these attributes.
+
+
+
+
 
 2. Implement the Following Methods
 isValidDate()
@@ -41,6 +47,10 @@ Implements Comparable<Date>.
 
 Sort the date list in ascending order, first by year, then by month, and finally by day.
 Allows sorting Date objects using Collections.sort().
+
+
+
+
 3. Write a Program
 Create a Main class to demonstrate the Date class by:
 
